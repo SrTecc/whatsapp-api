@@ -1,0 +1,26 @@
+{
+  "name": "whatsapp-webhook",
+  "version": "1.0.0",
+  "description": "Webhook Express para receber eventos do WhatsApp Cloud API (Meta)",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "keywords": [
+    "whatsapp",
+    "meta",
+    "webhook",
+    "express",
+    "render"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT"
+}
